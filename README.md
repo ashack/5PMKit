@@ -1,5 +1,5 @@
 # 5PMKit
-##Wireframe and low Fidelity mockup toolkit
+##Wireframe and low fidelity mockup toolkit
 Essential hand drawn shapes to create quick wireframes and low-fidelity mockups in PowerPoint.
 
 ![alt tag](https://github.com/ashack/5PMKit/blob/master/Sample%20Wireframe/Phones/Slide1.JPG)
